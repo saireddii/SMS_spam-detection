@@ -1,5 +1,10 @@
 # SMS_spam-detection
 📩 SMS Spam Detection using Machine Learning
+
+
+
+
+
 This project was developed as part of my internship at CodSoft where I worked as a Machine Learning Intern. The goal was to build a robust machine learning model to classify SMS messages as spam or ham (not spam) using advanced Natural Language Processing (NLP) techniques.
 
 🧠 Problem Statement
