@@ -62,8 +62,6 @@ Ham	0.98	1.00	0.99	965
 Spam	0.99	0.89	0.94	150
 ✅ Naive Bayes performed best due to its strength in handling text classification problems.
 
-📽️ Demo Video
-👉 [Attach your compressed spam_compressed.mp4 video here]
 
 🧰 Technologies Used
 Python
@@ -85,9 +83,7 @@ Naive Bayes is highly effective for NLP tasks like spam detection
 
 Evaluation metrics must go beyond accuracy in imbalanced datasets
 
-🚀 How to Run
-Clone this repository
-git clone https://github.com/YerragudiChaitanya/SMS-_Spam_detection.git
+
 
 Install dependencies
 pip install -r requirements.txt
